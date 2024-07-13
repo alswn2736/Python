@@ -1,0 +1,10 @@
+A = input("Enter A: ")
+B = input("Enter B: ")
+A = int(A)
+B = int(B)
+
+print(A + B)
+print(A - B)
+print(A * B)
+print(int(A / B))
+print(A % B)
